@@ -1,4 +1,4 @@
-#include "chr.cc"
+#include "inc"
 
 void test()
 {
