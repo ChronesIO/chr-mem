@@ -10,7 +10,7 @@
 Head Module: [chr](https://github.com/ChronesIO/chr)
 
 Other Modules:
-- [chr-core](https://github.com/ChronesIO/chr-core) *(memory hacking tools)*
+- [chr-core](https://github.com/ChronesIO/chr-core) *(core library content)*
 ---
 
 Upcoming Features:
