@@ -11,6 +11,7 @@ Head Module: [chr](https://github.com/ChronesIO/chr)
 
 Other Modules:
 - [chr-core](https://github.com/ChronesIO/chr-core) *(core library content)*
+- [chr-math](https://github.com/ChronesIO/chr-math) *(math / vectors)*
 ---
 
 Upcoming Features:
