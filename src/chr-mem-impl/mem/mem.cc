@@ -1,6 +1,6 @@
 #pragma once
 
-#include <chr-mem-impl/chr.cc>
+#include <chr-core>
 
 namespace chr::mem
 {

@@ -1,6 +1,6 @@
 #include "inc"
 
-void test()
+static auto test() -> void
 {
     using namespace chr;
 }
